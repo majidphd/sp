@@ -1,0 +1,11 @@
+pandas
+plotly
+streamlit
+openpyxl
+wordcloud
+numpy
+nltk
+collections
+string
+Counter
+stopwords
